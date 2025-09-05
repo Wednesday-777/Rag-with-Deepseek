@@ -32,5 +32,7 @@ Provided instant, explainable answers leveraging DeepSeek R1’s reasoning capab
 
 3. Set Up Python Environment
 
-4. Run the Project
+4. Run the requirements.txt file to install the dependencies : (python -r requirements.txt)
+
+5. Run the Project
 
